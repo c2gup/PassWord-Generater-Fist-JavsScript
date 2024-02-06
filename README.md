@@ -28,4 +28,4 @@ Password Generator is a web-based tool that allows users to generate strong and 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/c2gup/PassWord-Generater-Fist-JS.git
+   git clone https://github.com/c2gup/PassWord-Generater-Fist-JavsScript.git
