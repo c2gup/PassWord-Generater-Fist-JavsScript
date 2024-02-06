@@ -1,7 +1,9 @@
 # PassWord-Generater-Fist-JavsScript
-# live https://c2gup.github.io/PassWord-Generater-Fist-JavsScript/
+## Live -> https://passward-gen-1.onrender.com/
+
 
 A simple and elegant Password Generator web application built using HTML, CSS, and JavaScript.
+
 
 ![Password Generator Demo](demo.gif)
 
